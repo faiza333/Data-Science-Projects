@@ -9,7 +9,7 @@ It containe 3 folders the first is Forest Recordings where contains files mp3 wi
 the third one is Parsed_Not_Capuchinbird_Clips it containes another voices.
 
 ## Aim of the project:
-is to do classification on the audio to detect if it is have Capuchin voice or not and how many times.
+It's Audio analysis problem, where we classify Capuchin Bird in the rainforest using audio clips, Using TensorFlow we numerically represent the audio the data contains 3s clips so we convert it into a waveform, then convert it into spectrogram so we can use CV techniques to be able to perform that classification then push this into CNN so we can get a binary outcome, we will notice that we will get consecutive calls so we will group them out.
 
 ## Project Steps:
 ### 1- processing
