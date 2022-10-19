@@ -59,11 +59,11 @@ We gonna take those windows and convert it to spectograme and loop through them 
 ### Dataset 
 We collecting the dataset using the webcam for the face using CV2, the data is not that big it was about 80 photo, but we gonna make some augmintation on it.
 
-###Project Pipeline
+### Project Pipeline
 
 1- Collecting the data using webcam
 2- ANNOTATE the images so we can draw a box around the face using labelme library
-3- Do data Augmentation on thos images since the data is not that big using Arbumintation  library, it is gonna make 4 changed:    CROP, BRIGHTNISS, FLIP, GAMMA, THIS librar do ANNOTATE on the images too.
+3- Do data Augmentation on the images since the data is not that big using Arbumintation  library, it is gonna make 4 changed:    CROP, BRIGHTNISS, FLIP, GAMMA, THIS librar do ANNOTATE on the images too.
 4- DL model, it is 2 different types of models, classification model which it is classify what the object is in our case it is      only on class: face, and we gonna use binary cross entropy loss function 
    - the second model is the regression model trying to estimate coordinate of that particular bounding box, to do that we just      need the top left point or right,  and the bottom left point or right, any two opposing sets of coordinates we can use it      to draw a bounding box, and we gonna use localization 
    - we look to the top coordinate and find out how far our prediction is from that
