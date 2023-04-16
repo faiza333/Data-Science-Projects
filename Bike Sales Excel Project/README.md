@@ -5,5 +5,5 @@ the customers before making a purchase decision. For implementing this, I create
 to understand how different factors such as income, gender, education, marital status, regions, etc. are
 correlated to each other. Below is a snippet of the final dashboard in Excel.
 
-![Capture](https://user-images.githubusercontent.com/68142873/231682826-8132ccd6-b074-4a9e-9848-ab50c4ba1a65.PNG)
+![excel](https://user-images.githubusercontent.com/68142873/232280183-7f43064b-1256-48e6-b0b7-1d7939fb00e4.PNG)
 
