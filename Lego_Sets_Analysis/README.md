@@ -1,3 +1,6 @@
+###   The Data
+![lego_erd](https://github.com/faiza333/Data-Science-Projects/assets/68142873/0229cb44-d435-43ff-ba7e-95dc0b56e50a)
+
 ### Using SQL to analyse Lego sets data and answer the folowing questions:
 - What is the average number of Lego sets released per year?
 - What is the average number of Lego parts per year?
