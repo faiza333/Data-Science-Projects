@@ -12,7 +12,7 @@
 - [Which Debts Are Worth the Bank's Effort?](https://github.com/faiza333/Data-Science-Projects/tree/main/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort_)
 - [Do Left-handed People Really Die Young?](https://github.com/faiza333/Data-Science-Projects/tree/main/Do%20Left-handed%20People%20Really%20Die%20Young)
 ## ML
+- [Dancing playlist using spotify dataset ](https://github.com/faiza333/Data-Science-Projects/tree/main/building%20playlist%20using%20spotify%20dataset)
 - [Zero_deforestation_mission](https://github.com/faiza333/Data-Science-Projects/tree/main/Zero_deforestation_mission)
 - [AudioClassification](https://github.com/faiza333/Data-Science-Projects/tree/main/AudioClassification)
 - [FaceDetection](https://github.com/faiza333/Data-Science-Projects/tree/main/FaceDetection)
-- 
