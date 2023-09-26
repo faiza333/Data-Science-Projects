@@ -11,4 +11,4 @@ Using hotel dataset to build a dashbboard for stakeholders showes is:
 #### Insights
 - The revenue was going up and dawn by time but 2019 has the best revenu with 15M for city hotel and 14M for resort hotel
 - The parking facilitis not growing by time or the type of hotel its almost stagnent almost 3% for resort hotel and 1% for city hotel
-  we don't have a lot of evidince to deemine weather we should increase the parking lot or not
+  we don't have a lot of evidince to determine whether we should increase the parking lot or not
